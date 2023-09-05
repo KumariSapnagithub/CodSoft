@@ -81,3 +81,6 @@ Your final score is: 15/20
 Do you want to play again? (yes/no): no
 Thank you for playing!
 ```
+## License
+
+This project is licensed under the [MIT License](LICENSE).
